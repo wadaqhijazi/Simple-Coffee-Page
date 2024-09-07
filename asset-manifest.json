@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Simple-Coffee-Page/static/css/main.1c717125.css",
+    "main.js": "/Simple-Coffee-Page/static/js/main.e371b084.js",
+    "static/media/bg-cafe.jpg": "/Simple-Coffee-Page/static/media/bg-cafe.ed22aff1614ae837ee21.jpg",
+    "index.html": "/Simple-Coffee-Page/index.html",
+    "main.1c717125.css.map": "/Simple-Coffee-Page/static/css/main.1c717125.css.map",
+    "main.e371b084.js.map": "/Simple-Coffee-Page/static/js/main.e371b084.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c717125.css",
+    "static/js/main.e371b084.js"
+  ]
+}
